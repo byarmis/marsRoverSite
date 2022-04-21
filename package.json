@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  },
+  "name": "marsroversite",
+  "description": "Website to search through and find specific shots from NASA's Mars Rovers",
+  "version": "1.0.0",
+  "main": "PracticeFetch.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeiraJ081/marsRoverSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeiraJ081/marsRoverSite/issues"
+  },
+  "homepage": "https://github.com/KeiraJ081/marsRoverSite#readme"
+}
